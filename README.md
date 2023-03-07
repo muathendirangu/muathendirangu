@@ -1,6 +1,6 @@
 ### Hello ! 👋🏾
 
-I'm a software engineer interested in both building scalable backend web services and platform software.
+I'm a software engineer interested in building platforms that add value to humanity.
 
 
 I have an interest in networking and machine learning systems. check out what I have worked on in the the past [here].
