@@ -2,7 +2,7 @@
 
 I'm based in Nairobi, Kenya 🇰🇪
 
-I have an interest in networking and distributed systems. check out what I have worked on in the the past [resume].
+I have an interest in networking and distributed systems. check out what I have worked on in the the past [resume] .
 
 I also love share what I have learnt with others 🌱
 
