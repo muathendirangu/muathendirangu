@@ -15,5 +15,5 @@ me an [email] 📮
 
 [email]: mailto:muathe.ndirangu@gmail.com
 [the bird app]: https://twitter.com/n_d_i_r_a
-[resume]: https://docs.google.com/document/d/1e3P862F7ye0TaeJS_WiOItEuhZZkr0yVoDilE1_Cx90/edit
+[resume]: [https://docs.google.com/document/d/1e3P862F7ye0TaeJS_WiOItEuhZZkr0yVoDilE1_Cx90/edit](https://docs.google.com/document/d/1IQbc2kD3PMwrKPtNWd0kOymDkkmll7JPUwPJzh18LAA/edit?usp=sharing)https://docs.google.com/document/d/1IQbc2kD3PMwrKPtNWd0kOymDkkmll7JPUwPJzh18LAA/edit?usp=sharing
 [contributions]: https://github.com/bitsexplained
