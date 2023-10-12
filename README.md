@@ -2,9 +2,11 @@
 
 I'm based in Nairobi, Kenya 🇰🇪
 
-I have an interest in networking and distributed systems. check out what I have worked on in the the past [resume].
+I have an interest in networking and distributed systems.
 
-I also love share what I have learnt with others check out my open source contributions over here [contributions] 🌱
+I write a lot of rust, go and typescript
+
+I also love to share what I have learnt with others check out my open source contributions over here [contributions] 🌱
 
 
 
@@ -15,5 +17,4 @@ me an [email] 📮
 
 [email]: mailto:muathe.ndirangu@gmail.com
 [the bird app]: https://twitter.com/n_d_i_r_a
-[resume]: https://docs.google.com/document/d/1IQbc2kD3PMwrKPtNWd0kOymDkkmll7JPUwPJzh18LAA/edit?usp=sharing
 [contributions]: https://github.com/bitsexplained
