@@ -4,7 +4,7 @@ I'm based in Nairobi, Kenya 🇰🇪
 
 I have an interest in networking and distributed systems.
 
-I write a lot of rust, go and typescript
+I enjoy writing software using rust, go and typescript
 
 I also love to share what I have learnt with others check out my open source contributions over here [contributions] 🌱
 
