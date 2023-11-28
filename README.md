@@ -12,7 +12,7 @@ I also love to share what I have learnt with others check out my open source con
 
 ### Contact 🤙🏾
 
-Kindly reach out to me via [X(formerly twitter)] 🕊️. Otherwise feel free to send
+Kindly reach out to me via [X formerly twitter] 🕊️. Otherwise feel free to send
 me an [email] 📮
 
 [email]: mailto:muathe.ndirangu@gmail.com
