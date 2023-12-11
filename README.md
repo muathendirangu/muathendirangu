@@ -16,5 +16,5 @@ Kindly reach out to me via [X(formerly twitter)] 🕊️. Otherwise feel free to
 me an [email] 📮
 
 [email]: mailto:ndirangu@bitsexplained.com
-[X(formerly twitter)]: https://twitter.com/n_d_i_r_a_n_g_u
+[X(formerly twitter)]: https://twitter.com/___ndirangu
 [contributions]: https://github.com/bitsexplained
