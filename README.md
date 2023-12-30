@@ -17,4 +17,4 @@ me an [email] 📮
 
 [email]: mailto:ndirangu@bitsexplained.com
 [X(formerly twitter)]: https://twitter.com/MuatheNdirangu
-[contributions]: https://github.com/bitsexplained
+[bitsexplained]: https://github.com/bitsexplained
