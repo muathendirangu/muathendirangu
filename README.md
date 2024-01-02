@@ -2,7 +2,7 @@
 
 I'm based in Nairobi, Kenya 🇰🇪
 
-I have an interest in networking and distributed systems.
+I have an interest in systems programming, networking and distributed systems.
 
 I enjoy writing software using rust, go and typescript
 
