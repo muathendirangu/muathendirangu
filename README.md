@@ -4,7 +4,7 @@ I'm based in Nairobi, Kenya 🇰🇪
 
 I have an interest in systems programming, networking and distributed systems.
 
-I enjoy writing software using rust, go and typescript
+I enjoy writing software using Python, Go and Rust
 
 I also love to share what I have learnt with others check out my open source contributions over here [bitsexplained] 🌱
 
