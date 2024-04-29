@@ -1,6 +1,5 @@
 ### Hello 👋🏾
 
-I'm based in Nairobi, Kenya 🇰🇪
 
 I have an interest in systems programming, networking and distributed systems.
 
